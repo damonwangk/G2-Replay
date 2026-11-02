@@ -1,0 +1,134 @@
+{
+  "snapshot_date": "2026-11-02",
+  "source": "G2 /data/r2_datacp (read-only snapshot)",
+  "repository": "G2-Replay",
+  "source_files": {
+    "README.md": {
+      "g2_sha256": "cbd9ff387c7cf8c1761b1f8ff8d1c3ffa9a4d619be5e3e82bf48d8f9a5a7209b",
+      "published_sha256": "505f36422f25dcc60429d52459093b2f7f85ab514588325af01e8ed5df94c9b7"
+    },
+    "conversion/convert_r2.py": {
+      "g2_sha256": "9e13e3d1a1fdeb5e34baa5147b9bda9898ff8798a39d671f674580559b572cc3",
+      "published_sha256": "9e13e3d1a1fdeb5e34baa5147b9bda9898ff8798a39d671f674580559b572cc3"
+    },
+    "conversion/factory_input.py": {
+      "g2_sha256": "3300804aacb295f92f0f334560f5c1fa75dff62dfa970734d6e0ce711805ee00",
+      "published_sha256": "3300804aacb295f92f0f334560f5c1fa75dff62dfa970734d6e0ce711805ee00"
+    },
+    "conversion/mcap_input.py": {
+      "g2_sha256": "bb23c2ba857310c1fc530effb0bcecb401ecb722acac017b0373de0cbe7eeb19",
+      "published_sha256": "bb23c2ba857310c1fc530effb0bcecb401ecb722acac017b0373de0cbe7eeb19"
+    },
+    "conversion/recording_contract.py": {
+      "g2_sha256": "003152332df5e3d45dcc1b61d141e0f33c411f5ebd67cafafb526e2a4b9e9427",
+      "published_sha256": "003152332df5e3d45dcc1b61d141e0f33c411f5ebd67cafafb526e2a4b9e9427"
+    },
+    "conversion/test_factory_input.py": {
+      "g2_sha256": "d880e5152d24df7aee54cfe89cfd8d41e47e1983c92db3aef0a04d13ab88531a",
+      "published_sha256": "d880e5152d24df7aee54cfe89cfd8d41e47e1983c92db3aef0a04d13ab88531a"
+    },
+    "conversion/test_mcap_input.py": {
+      "g2_sha256": "c4001a5a0f7a41248e341331ff4a88fcda21ee3cfe91e708f09c158f35e2345e",
+      "published_sha256": "c4001a5a0f7a41248e341331ff4a88fcda21ee3cfe91e708f09c158f35e2345e"
+    },
+    "replay/README.md": {
+      "g2_sha256": "76230a11c9784aab80aa50a41f6b5f0a122c76ab6b65286080c13c29fbe58c06",
+      "published_sha256": "aa5194626895203a230d792ef0daa475ef7a4b745cafe93f7f37927855c8cb9a"
+    },
+    "replay/README_clamped_smooth.md": {
+      "g2_sha256": "d689e6282e679c0f17d0c49de521340d63d5b2f7b453d062389ffc808b603334",
+      "published_sha256": "332d51bae101ff1764d7c84695082d3639ce7c41a9a73ecdfcb638b172e5d501"
+    },
+    "replay/clamped_smooth_targets.py": {
+      "g2_sha256": "f4241ff2647e9cdce4278d0da52ae029ba8204af209074c315aa888010de5b8a",
+      "published_sha256": "f4241ff2647e9cdce4278d0da52ae029ba8204af209074c315aa888010de5b8a"
+    },
+    "replay/dataset_info.py": {
+      "g2_sha256": "841f27902e1adbec992692a3771825039f3c86726d4d7839b0389380ff95f2e5",
+      "published_sha256": "841f27902e1adbec992692a3771825039f3c86726d4d7839b0389380ff95f2e5"
+    },
+    "replay/lerobot_replay.py": {
+      "g2_sha256": "c5859d53e184e874d8a09407b25f9541a378c4b735f1da7857baa3c541f80b9c",
+      "published_sha256": "c5859d53e184e874d8a09407b25f9541a378c4b735f1da7857baa3c541f80b9c"
+    },
+    "replay/lerobot_replay_clamped_smooth.py": {
+      "g2_sha256": "57db0e979131b726c2d3d7908eec2e0a9d2cee1ef98d2041c07ab0e6078431eb",
+      "published_sha256": "57db0e979131b726c2d3d7908eec2e0a9d2cee1ef98d2041c07ab0e6078431eb"
+    },
+    "replay/native_episode.py": {
+      "g2_sha256": "2ed00fe57e74c0c48eb9c13b0652d5eb3b6cc7896b0dd70512db52c0f323cc21",
+      "published_sha256": "2ed00fe57e74c0c48eb9c13b0652d5eb3b6cc7896b0dd70512db52c0f323cc21"
+    },
+    "replay/replay.sh": {
+      "g2_sha256": "dd06c99e0d195641a44ac2d729599ab51f09b26a0e3828c6478a89b69a382295",
+      "published_sha256": "dd06c99e0d195641a44ac2d729599ab51f09b26a0e3828c6478a89b69a382295"
+    },
+    "replay/replay_clamped_smooth.sh": {
+      "g2_sha256": "57436f2d3aefcbd76da5238747dd80582d25427bdae4dbdf514fea8e293349a7",
+      "published_sha256": "57436f2d3aefcbd76da5238747dd80582d25427bdae4dbdf514fea8e293349a7"
+    },
+    "replay/source_episode.py": {
+      "g2_sha256": "36763e93e48effcd6b0e63fd0a61bbd6461239a0f64dc25c6205d13d56ed9bfa",
+      "published_sha256": "36763e93e48effcd6b0e63fd0a61bbd6461239a0f64dc25c6205d13d56ed9bfa"
+    },
+    "replay/test_clamped_smooth.py": {
+      "g2_sha256": "19d779b59cfe3d059da62103186103d860626d869160390c5f81eeaf2f081dfd",
+      "published_sha256": "b8f164d6fdde3f6f780173520f6090aa9c5ab7ce1219797b46c318d6e6357c02"
+    },
+    "replay/test_dataset_info_commit.py": {
+      "g2_sha256": "ca2e196f5e9b94cdba8f3c7eda3d89def44bb2bf671ff42f6edac8eecca8cb58",
+      "published_sha256": "ca2e196f5e9b94cdba8f3c7eda3d89def44bb2bf671ff42f6edac8eecca8cb58"
+    },
+    "replay/test_image_free_dataset.py": {
+      "g2_sha256": "fe30dbe17483d6b42fe5320b6bca52ab9b4c79e7765b4e05d48e37d0ab24362b",
+      "published_sha256": "fe30dbe17483d6b42fe5320b6bca52ab9b4c79e7765b4e05d48e37d0ab24362b"
+    },
+    "replay/test_lerobot_replay.py": {
+      "g2_sha256": "4a3f034c0567301d8f4aebde907da0e73c31228449e40bfd6c5125d5d58a0e4a",
+      "published_sha256": "4a3f034c0567301d8f4aebde907da0e73c31228449e40bfd6c5125d5d58a0e4a"
+    },
+    "replay/test_native_episode.py": {
+      "g2_sha256": "abdc1f999f95a2261e515af81f96f46d02abcc1abe8199995f7d01467b9f693f",
+      "published_sha256": "abdc1f999f95a2261e515af81f96f46d02abcc1abe8199995f7d01467b9f693f"
+    },
+    "replay/test_replay_adaptation.py": {
+      "g2_sha256": "7251f48b7ccce71a4b41a71702dfcc90280aabf9a5d6a2649e4bdf19b67a3657",
+      "published_sha256": "7251f48b7ccce71a4b41a71702dfcc90280aabf9a5d6a2649e4bdf19b67a3657"
+    },
+    "replay/trajectory.py": {
+      "g2_sha256": "e6ec49d81e0c76d157a00505ab9da619c5b7c0d9d2eebc7c35f4d0694a5e57dc",
+      "published_sha256": "e6ec49d81e0c76d157a00505ab9da619c5b7c0d9d2eebc7c35f4d0694a5e57dc"
+    },
+    "replay/validate_clamped_smooth_samples.py": {
+      "g2_sha256": "babe39dfffa31fc8a633e251ba8cda74aef476641f01460b66421c68d0ac7172",
+      "published_sha256": "babe39dfffa31fc8a633e251ba8cda74aef476641f01460b66421c68d0ac7172"
+    },
+    "studio/schemas.pb": {
+      "g2_sha256": "208d12a256e5db9f14c714ddf8317e3e2a982325b82213bfd282c021c2bce19a",
+      "published_sha256": "208d12a256e5db9f14c714ddf8317e3e2a982325b82213bfd282c021c2bce19a"
+    }
+  },
+  "publication_additions": [
+    ".gitignore",
+    "VALIDATION.md",
+    "docs/dependencies.md",
+    "requirements.txt",
+    "studio/config/robot_control.example.json",
+    "tests/fixtures/synthetic_gdk_limits.json"
+  ],
+  "publication_adaptations": [
+    "README.md",
+    "replay/README.md",
+    "replay/README_clamped_smooth.md",
+    "replay/test_clamped_smooth.py"
+  ],
+  "adaptation_note": "Documentation, public installation dependencies, portable synthetic tests and executable modes only. Runtime collection, conversion and replay logic unchanged.",
+  "excluded": [
+    "data",
+    "private device configuration",
+    "credentials",
+    "SDK/vendor binaries",
+    "runtime logs",
+    "Python environments"
+  ]
+}
